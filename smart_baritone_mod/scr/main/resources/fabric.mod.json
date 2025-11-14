@@ -1,0 +1,19 @@
+{
+    "schemaVersion": 1,
+    "id": "smart_baritone",
+    "version": "1.0.0",
+    "name": "Smart Baritone",
+    "description": "Mod base gerado automaticamente.",
+    "authors": [
+        "Voc\u00ea"
+    ],
+    "entrypoints": {
+        "main": [
+            "com.smartbaritone.SmartBaritoneMod"
+        ]
+    },
+    "depends": {
+        "fabricloader": ">=0.15.3",
+        "minecraft": "1.20.1"
+    }
+}
